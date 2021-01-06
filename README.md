@@ -3,6 +3,5 @@ Yep, That's me.
 
 - 🦀 Rustacean
 - 🧸 Game developer
-- 👧 Father
-- 💍 Husband
+- 👨‍👩‍👧‍👦 Father
 - 🏡 Working from Home
