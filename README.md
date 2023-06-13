@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vrixyz&show_icons=true">
+<iframe src="https://github.com/sponsors/Vrixyz/card" title="Sponsor Vrixyz" height="225" width="600" style="border: 0;"></iframe>
+
 Yep, That's me.
 
 - 🦀 Rustacean
